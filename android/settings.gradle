@@ -1,0 +1,3 @@
+rootProject.name = 'elohim_donguia_1410'
+
+include ':app'
